@@ -1,0 +1,27 @@
+2024-07-08 00:58:28,335 - INFO - Script started
+2024-07-08 00:58:28,336 - INFO - Starting the process to get average latency
+2024-07-08 00:58:28,336 - INFO - Reading data from E:\Python\InputDataFile\LoadTestReport.csv
+2024-07-08 00:58:28,397 - INFO - Data read successfully
+2024-07-08 00:58:28,397 - INFO - Filtering data where responseCode is 200
+2024-07-08 00:58:28,399 - INFO - Calculating average latency and 90th percentile latency
+2024-07-08 00:58:28,405 - INFO - Saving the result to E:\Python\OutputDataFile\Output.csv
+2024-07-08 00:58:28,408 - INFO - Result saved successfully
+2024-07-08 00:58:28,409 - INFO - Script finished
+2024-07-08 01:10:20,807 - INFO - Script started
+2024-07-08 01:10:20,808 - INFO - Starting the process to get average latency
+2024-07-08 01:10:20,809 - INFO - Reading data from E:\Python\InputDataFile\LoadTestReport.csv
+2024-07-08 01:10:20,886 - INFO - Data read successfully
+2024-07-08 01:10:20,886 - INFO - Filtering data where responseCode is 200
+2024-07-08 01:10:20,888 - INFO - Calculating average latency and 90th percentile latency
+2024-07-08 01:10:20,894 - INFO - Saving the result to E:\Python\OutputDataFile\Output.csv
+2024-07-08 01:10:20,896 - INFO - Result saved successfully
+2024-07-08 01:10:20,897 - INFO - Script finished
+2024-07-08 01:10:51,687 - INFO - Script started
+2024-07-08 01:10:51,688 - INFO - Starting the process to get average latency
+2024-07-08 01:10:51,688 - INFO - Reading data from E:\Python\InputDataFile\LoadTestReport.csv
+2024-07-08 01:10:51,759 - INFO - Data read successfully
+2024-07-08 01:10:51,759 - INFO - Filtering data where responseCode is 200
+2024-07-08 01:10:51,761 - INFO - Calculating average latency and 90th percentile latency
+2024-07-08 01:10:51,769 - INFO - Saving the result to E:\Python\OutputDataFile\Output.csv
+2024-07-08 01:10:51,772 - INFO - Result saved successfully
+2024-07-08 01:10:51,774 - INFO - Script finished
